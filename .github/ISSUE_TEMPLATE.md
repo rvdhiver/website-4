@@ -8,9 +8,9 @@
 
 ## Steps to Reproduce
 <!--- Please let other contributors know how they can reproduce the issue in several steps. E.g. "1. visit emberjs.com 2. You will see the green header title." -->
-<h2><b>1.</b></h2><br>
-<b>2.</b><br>
-<b>3.</b><br>
+<h2><b>1.</h2><br>
+<h2><b>2.<h2><br>
+<h2><b>3.</h2><br>
 
 ## Environment
 <!--- Please provide any technical details that might be relevant for the reproduction of this issue. E.g. "seen on emberjs.com, Windows 7, Internet Explorer 10" -->
